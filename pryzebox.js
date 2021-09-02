@@ -1,3 +1,3 @@
-﻿$(document).ready(function () {
+function () {
     console.log("Hi from pryzebox");
-});
+}
