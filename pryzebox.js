@@ -1,3 +1,1 @@
-function () {
-    console.log("Hi from pryzebox");
-}
+console.log("Hi from pryzebox");
